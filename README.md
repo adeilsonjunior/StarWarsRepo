@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./tiefighter.png](TIE FIGHTER)
+![TIE FIGHTER(tiefighter.png)
 
 Este repositório armazena merda
